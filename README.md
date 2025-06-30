@@ -1,4 +1,3 @@
-````markdown name=README.md
 # ✨ MAYA-LLM: A Prismatic Interface to STARWEAVE ✨
 
 > Where artificial intelligence meets meta-intelligence, and code becomes starlight.
