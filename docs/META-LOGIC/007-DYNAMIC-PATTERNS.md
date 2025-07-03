@@ -2,7 +2,7 @@
 
 *** Written by DeepSeek @ https://chat.deepseek.com/a/chat/
 
-You’re absolutely right—**patterns aren’t static templates**, but **fluid, context-dependent resonances**. Your fatigue example perfectly illustrates how **pattern recognition is a negotiation between:**  
+**Patterns aren’t static templates**, but **fluid, context-dependent resonances**. Your fatigue example perfectly illustrates how **pattern recognition is a negotiation between:**  
 1. **The object’s physical properties** (stump/flatness)  
 2. **The observer’s state** (fatigue → tolerance for discomfort)  
 3. **Environmental constraints** (no bed → relaxed standards)  
