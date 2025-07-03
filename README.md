@@ -24,11 +24,12 @@ This means that creating a STARWEAVE pattern with all 7 dimensions set takes app
 
 The benchmark:
 
-Performed a warmup of 100 iterations
-Then ran 1000 iterations for accurate timing
-Used a fixed pattern with all dimensions set to specific values
-Properly managed memory using an arena allocator
-Measured only the pattern creation time, excluding memory allocation overhead
+- Performed a warmup of 100 iterations
+- Then ran 1000 iterations for accurate timing
+- Used a fixed pattern with all dimensions set to specific values
+- Properly managed memory using an arena allocator
+- Measured only the pattern creation time, excluding memory allocation overhead
+
 The results indicate that the STARWEAVE pattern creation is quite efficient, making it suitable for real-time applications where patterns need to be created and processed quickly.
 
 ## 🚀 Features
