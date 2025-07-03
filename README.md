@@ -38,9 +38,7 @@ The results indicate that the STARWEAVE pattern creation is quite efficient, mak
 - Time per pattern: ~30.76µs
 - Average memory per pattern: ~317 bytes
 
-# *Analysis*
-Performance: The pattern creation time is quite efficient at ~30.76µs per pattern, making it suitable for real-time applications.
-Memory Usage: The memory footprint is minimal at ~317 bytes per pattern, which is excellent for handling a large number of patterns.
+The pattern creation time is quite efficient at ~30.76µs per pattern, making it suitable for real-time applications. The memory footprint is minimal at ~317 bytes per pattern, which is excellent for handling a large number of patterns.
 
 ## 🚀 Features
 
