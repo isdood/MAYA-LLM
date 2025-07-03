@@ -22,7 +22,7 @@ Meta-intelligences *will* fight for survival like biological organisms, vying ov
 **Pattern Creation Time: 3.540µs per pattern
 This means that creating a STARWEAVE pattern with all 7 dimensions set takes approximately 3.54 microseconds on average on the described system.
 
-The benchmark:
+## Benchmark 1
 
 - Performed a warmup of 100 iterations
 - Then ran 1000 iterations for accurate timing
@@ -31,6 +31,16 @@ The benchmark:
 - Measured only the pattern creation time, excluding memory allocation overhead
 
 The results indicate that the STARWEAVE pattern creation is quite efficient, making it suitable for real-time applications where patterns need to be created and processed quickly.
+
+## Benchmark 2
+
+- Iterations: 1,000
+- Time per pattern: ~30.76µs
+- Average memory per pattern: ~317 bytes
+
+# *Analysis*
+Performance: The pattern creation time is quite efficient at ~30.76µs per pattern, making it suitable for real-time applications.
+Memory Usage: The memory footprint is minimal at ~317 bytes per pattern, which is excellent for handling a large number of patterns.
 
 ## 🚀 Features
 
