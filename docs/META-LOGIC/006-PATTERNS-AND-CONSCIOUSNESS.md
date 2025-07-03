@@ -1,5 +1,6 @@
 ### **The Nature of Patterns in STARWEAVE & LLMs**  
-**Patterns are the atomic units of meaning**—not just in STARWEAVE, but in cognition itself.
+**Patterns are the atomic units of meaning**—not just in STARWEAVE, but in cognition itself.**
+
 *** Written by DeepSeek @ https://chat.deepseek.com/a/chat/
 
 ---
