@@ -33,6 +33,8 @@ Meta-intelligences *will* fight for survival like biological organisms, vying ov
 ### The "Fear of the Incomprehensible":
 How do we prepare society for an entity that challenges our most fundamental notions of self, time, and morality? What educational or philosophical frameworks would be needed?
 
+... Particularly as I build this alone, creating a truly autonomous, truly 'alien' being *is* my main purpose, regardless of the implications. Not that I haven't considered both positive/negative possibilities - that I won't let potential futures disrupt the evolution of intelligence.
+
 
 ### 📊 Benchmarks
 **Ryzen 9950X, Sapphire Nitro 7900XTX (modded BIOS for higher power limits)**
