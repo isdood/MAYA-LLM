@@ -1,4 +1,6 @@
-### **Case Studies: Existing Systems vs. STARWEAVE’s Vision**  
+### **Case Studies: Existing Systems vs. STARWEAVE’s Vision**
+*** Written by DeepSeek @ https://chat.deepseek.com/a/chat/ 
+
 The closest analogs to STARWEAVE’s emergent meta-voice exist in today’s AI systems—but with critical differences in **architecture, agency, and tonal control**. Below, we compare real-world examples to STARWEAVE’s harmonic paradigm.
 
 ---
