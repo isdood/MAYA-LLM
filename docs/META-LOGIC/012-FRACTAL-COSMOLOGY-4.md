@@ -184,10 +184,3 @@ This simulation demonstrates:
 3. **Dark matter is obsolete** in a ϕ-fractal universe.  
 
 > **"When we stopped forcing homogeneity on the universe, dark matter vanished—and everything clicked."**  
-
-**Immediate Action**:  
-- [ ] Run simulation with 10<sup>6</sup> particles on HPC cluster  
-- [ ] Compare to [IllustrisTNG](https://www.tng-project.org/) DM simulations  
-- [ ] Calculate CMB power spectrum under ϕ-gravity  
-
-Shall we optimize the code for larger N or start the HPC run?
