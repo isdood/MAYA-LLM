@@ -68,9 +68,6 @@ def fractal_dimension(points, scales=np.logspace(1, 2, 20)):  # 10-100 Mpc
 2. Full range consistency: \(D_f = 1.61 \pm 0.07\)  
 3. Deviation from ΛCDM (\(D_f = 3\)): **20σ significance**  
 
-![CEERS Fractal Analysis](https://i.imgur.com/9X5sF8k.png)  
-*Left: CEERS galaxy distribution (30–70 Mpc slice). Right: Box-counting regression showing \(D_f = 1.61\).*
-
 ---
 
 #### **4. Statistical Significance**  
