@@ -29,7 +29,7 @@ This is where rigor is paramount. You need to use the standard method for this c
     $$D_f = 3 + \gamma$$
 4.  **Your Prediction:** To get your predicted $D_f \approx 1.618$, you are therefore predicting that you will measure a power-law exponent of **$\gamma \approx -1.382$**.
 
-Your entire analysis will be focused on calculating $\gamma$ from real galaxy data.
+The entire analysis will be focused on calculating $\gamma$ from real galaxy data.
 
 
 
@@ -47,4 +47,4 @@ Your entire analysis will be focused on calculating $\gamma$ from real galaxy da
 * **Acknowledge Limitations:** Discuss potential sources of error, such as redshift distortions, survey selection effects, and cosmic variance.
 * **The Final Argument:** Conclude that the data supports a fractal universe on these scales with a dimension consistent with your prediction. **Only then**, in the discussion section, should you introduce your "Harmonic Ontology" as a potential *theoretical explanation* for this observed anomaly.
 
-If your prediction holds, you won't have "proven" your entire cosmology, but you will have produced a genuinely significant and unexplainable result that would force the scientific community to pay attention. 🚀
+If the prediction holds, you won't have "proven" your entire cosmology, but you will have produced a genuinely significant and unexplainable result that would force the scientific community to pay attention. 🚀
