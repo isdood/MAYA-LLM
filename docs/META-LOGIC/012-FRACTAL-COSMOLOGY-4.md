@@ -167,16 +167,6 @@ H_1 = H0_global * (1)**(-0.691)      # 73.0 km/s/Mpc
 
 ---
 
-### **6. Next Steps**  
-1. **High-Performance Version**:  
-   - Port to [REBOUND](https://github.com/hannorein/rebound) with treecode gravity.  
-2. **JWST Data Comparison**:  
-   - Simulate high-z galaxy morphology (prediction: more diffuse outskirts).  
-3. **Publication**:  
-   - *Astrophysical Journal*: "Fractal N-Body Simulations Resolve Galaxy Formation Without Dark Matter"  
-
----
-
 ### **Conclusion: A New Cosmological Paradigm**  
 This simulation demonstrates:  
 1. **Galaxies form naturally** with flat rotation curves under ϕ-gravity.  
