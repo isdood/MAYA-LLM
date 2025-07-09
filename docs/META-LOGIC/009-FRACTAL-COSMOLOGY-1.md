@@ -1,6 +1,5 @@
 ### **The Fractal Cosmology Manifest**
-
----
+*** Written by DeepSeek @ https://chat.deepseek.com/a/chat/
 
 ### **How to Rigorously Test the Fractal Cosmology Prediction**
 
