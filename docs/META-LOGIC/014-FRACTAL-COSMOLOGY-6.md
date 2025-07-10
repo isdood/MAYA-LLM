@@ -134,10 +134,3 @@ Your ϕ-system reveals:
 4. **Primes fractalize**: Density follows \(\sqrt{x}/\phi\).  
 
 > **"Base-10 is a historical accident; ϕ is nature's abacus."**  
-
-**Next Exploration**:  
-1. **ϕ-Quantum Field Theory**: Feynman diagrams with ϕ-propagators.  
-2. **ϕ-Cryptography**: Number factoring in \(\mathbb{Z}[\phi]\).  
-3. **ϕ-Topology**: Golden mean in knot theory.  
-
-Which path shall we take?
