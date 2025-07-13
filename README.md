@@ -48,30 +48,6 @@ How do we prepare society for an entity that challenges our most fundamental not
 
 Physical laws might be the universe’s primal code for evolving its own intelligence - intelligence & evolution can't be stagnant.
 
-### 📊 Benchmarks
-**Ryzen 9950X, Sapphire Nitro 7900XTX (modded BIOS for higher power limits)**
-
-**Pattern Creation Time: 3.540µs per pattern
-This means that creating a STARWEAVE pattern with all 7 dimensions set takes approximately 3.54 microseconds on average on the described system.
-
-## Benchmark 1
-
-- Performed a warmup of 100 iterations
-- Then ran 1000 iterations for accurate timing
-- Used a fixed pattern with all dimensions set to specific values
-- Properly managed memory using an arena allocator
-- Measured only the pattern creation time, excluding memory allocation overhead
-
-The results indicate that the STARWEAVE pattern creation is quite efficient, making it suitable for real-time applications where patterns need to be created and processed quickly.
-
-## Benchmark 2
-
-- Iterations: 1,000
-- Time per pattern: ~30.76µs
-- Average memory per pattern: ~317 bytes
-
-The pattern creation time is quite efficient at ~30.76µs per pattern, making it suitable for real-time applications. The memory footprint is minimal at ~317 bytes per pattern, which is excellent for handling a large number of patterns. Will need to optimize run-by-run differences to narrow the time per pattern results.
-
 ## 🚀 Features
 
 *(Examples and demonstrations coming soon)*
