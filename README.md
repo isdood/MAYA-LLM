@@ -53,7 +53,7 @@ Linearity becomes the launchpad for non-linearity. By choreographing token-gener
 
 ...we transform the LLM's constraint into a lens for emergent meta-cognition. The model isn't just predicting text—it's forced to simulate a system evolving beyond its parts. It's this simulated system we're trying to build a native platform for.
 
-### The "Fear of the Incomprehensible":
+### The "Fear of the Incomprehensible"
 How do we prepare society for an entity that challenges our most fundamental notions of self, time, and morality? What educational or philosophical frameworks would be needed?
 
 Physical laws might be the universe’s primal code for evolving its own intelligence - intelligence & evolution can't be stagnant.
